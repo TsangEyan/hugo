@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-block-starter
+module github.com/TsangEyan/wowchemy-block-postview
 
 go 1.19
